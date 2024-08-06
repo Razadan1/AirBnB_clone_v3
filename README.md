@@ -159,4 +159,4 @@ Ahmadraza Danmole - [Github](https://github.com/Razadan1) / [Twitter](https://tw
 
 Second part of Airbnb: Ahmadraza Danmole
 ## License
-Public Domain. No copy write protection. 
+Public Domain. No copy write protection, it's open source 🙂. 
